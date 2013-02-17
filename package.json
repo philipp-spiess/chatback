@@ -1,0 +1,21 @@
+{
+  "name": "chatback",
+  "version": "0.0.1",
+  "description": "Facbeook Chat Analysis",
+  "homepage":"https://github.com/philipp-spiess/chatback", 
+  "author": "Philipp Spieß <hello@philippspiess.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philipp-spiess/chatback.git"
+  },
+  "main": "index",
+  "engines": { 
+    "node": ">= 0.8.0" 
+  },
+  "dependencies": {
+    "coffee-script": "*"
+  },
+  "bin" : {
+    "chatback" : "./bin/chatback"
+  }
+}
