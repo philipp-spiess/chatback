@@ -1,6 +1,6 @@
 {
   "name": "chatback",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Facbeook Chat Analysis",
   "homepage":"https://github.com/philipp-spiess/chatback", 
   "author": "Philipp Spieß <hello@philippspiess.com>",
